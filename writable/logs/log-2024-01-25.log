@@ -1,0 +1,300 @@
+WARNING - 2024-01-25 10:20:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelLayanan is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:20:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelCarousel is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:22:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelLayanan is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:22:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelCarousel is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:34:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelLayanan is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:34:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelCarousel is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:34:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelTestimoni is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-25 10:34:32 --> ParseError: Unclosed '{' on line 413
+in APPPATH\Views\front\v_home.php on line 621.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/v_home', [], true)
+ 3 APPPATH\Controllers\Home.php(23): view('front/v_home', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:36:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelLayanan is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:36:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelCarousel is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:36:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelTestimoni is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:42:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelLayanan is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:42:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelCarousel is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 10:42:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelTestimoni is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:05:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelLayanan is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:05:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelCarousel is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:05:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelTestimoni is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:14:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-25 11:14:09 --> ErrorException: Undefined variable $testimoni
+in APPPATH\Views\admin\staff\v_index.php on line 34.
+ 1 APPPATH\Views\admin\staff\v_index.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $testimoni', 'C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php', 34)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/staff/v_index', [], true)
+ 5 APPPATH\Views\admin\v_template_admin.php(15): view('admin/staff/v_index')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/v_template_admin', [], true)
+ 9 APPPATH\Controllers\staff.php(22): view('admin/v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Staff->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:15:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-25 11:15:47 --> ErrorException: Undefined array key "photo_staff"
+in APPPATH\Views\admin\staff\v_index.php on line 38.
+ 1 APPPATH\Views\admin\staff\v_index.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "photo_staff"', 'C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php', 38)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/staff/v_index', [], true)
+ 5 APPPATH\Views\admin\v_template_admin.php(15): view('admin/staff/v_index')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/v_template_admin', [], true)
+ 9 APPPATH\Controllers\staff.php(22): view('admin/v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Staff->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:23:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-25 11:23:31 --> ErrorException: Undefined array key "photo_staff"
+in APPPATH\Views\admin\staff\v_index.php on line 38.
+ 1 APPPATH\Views\admin\staff\v_index.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "photo_staff"', 'C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php', 38)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/staff/v_index', [], true)
+ 5 APPPATH\Views\admin\v_template_admin.php(15): view('admin/staff/v_index')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/v_template_admin', [], true)
+ 9 APPPATH\Controllers\staff.php(22): view('admin/v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Staff->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:31:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-25 11:31:56 --> ErrorException: Undefined array key "staff"
+in APPPATH\Views\admin\staff\v_index.php on line 70.
+ 1 APPPATH\Views\admin\staff\v_index.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "staff"', 'C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\staff\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/staff/v_index', [], true)
+ 5 APPPATH\Views\admin\v_template_admin.php(15): view('admin/staff/v_index')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/v_template_admin', [], true)
+ 9 APPPATH\Controllers\staff.php(22): view('admin/v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Staff->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:33:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:33:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:34:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelLayanan is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:34:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelCarousel is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:34:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelTestimoni is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-25 11:34:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:34:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:36:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:36:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:40:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:40:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:45:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-25 11:45:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Staff::$ModelStaff is deprecated in APPPATH\Controllers\staff.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Staff->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-25 11:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

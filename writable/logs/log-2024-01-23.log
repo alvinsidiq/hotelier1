@@ -1,0 +1,365 @@
+CRITICAL - 2024-01-23 14:16:02 --> ErrorException: Undefined variable $ModelLayanan
+in APPPATH\Controllers\Layanan.php on line 11.
+ 1 APPPATH\Controllers\Layanan.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLayanan', 'C:\\xampp\\htdocs\\hotelier\\app\\Controllers\\Layanan.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 14:21:58 --> ErrorException: Undefined variable $ModelLayanan
+in APPPATH\Controllers\Layanan.php on line 11.
+ 1 APPPATH\Controllers\Layanan.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLayanan', 'C:\\xampp\\htdocs\\hotelier\\app\\Controllers\\Layanan.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 14:23:28 --> ErrorException: Undefined variable $ModelLayanan
+in APPPATH\Controllers\Layanan.php on line 11.
+ 1 APPPATH\Controllers\Layanan.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLayanan', 'C:\\xampp\\htdocs\\hotelier\\app\\Controllers\\Layanan.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 14:23:34 --> ErrorException: Undefined variable $ModelLayanan
+in APPPATH\Controllers\Layanan.php on line 11.
+ 1 APPPATH\Controllers\Layanan.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLayanan', 'C:\\xampp\\htdocs\\hotelier\\app\\Controllers\\Layanan.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 14:30:53 --> ErrorException: Undefined variable $ModelLayanan
+in APPPATH\Controllers\Layanan.php on line 12.
+ 1 APPPATH\Controllers\Layanan.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLayanan', 'C:\\xampp\\htdocs\\hotelier\\app\\Controllers\\Layanan.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:35:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:36:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:37:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:42:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 14:42:19 --> TypeError: Cannot access offset of type string on string
+in APPPATH\Views\admin\layanan\v_index.php on line 23.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/layanan/v_index', [], true)
+ 4 APPPATH\Views\admin\v_template_admin.php(15): view('admin/layanan/v_index')
+ 5 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\v_template_admin.php')
+ 6 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/v_template_admin', [], true)
+ 8 APPPATH\Controllers\Layanan.php(22): view('admin/v_template_admin', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Layanan->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layanan))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:45:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:50:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:52:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:57:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 14:58:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:02:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:05:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:06:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:08:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:15:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:17:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:19:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:21:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:21:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:26:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:46:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:52:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:53:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:53:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 15:53:52 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(662): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(864): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Layanan.php(30): CodeIgniter\Model->__call('store', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Layanan->simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layanan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:54:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:54:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:55:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 15:55:31 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(662): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(864): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Layanan.php(30): CodeIgniter\Model->__call('store', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Layanan->simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layanan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:56:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:56:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:56:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 15:56:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 16:08:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:09:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:09:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:11:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:12:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:12:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:30:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 16:30:51 --> ParseError: Unclosed '{' on line 88
+in APPPATH\Views\admin\layanan\v_index.php on line 126.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/layanan/v_index', [], true)
+ 3 APPPATH\Views\admin\v_template_admin.php(15): view('admin/layanan/v_index')
+ 4 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\v_template_admin.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/v_template_admin', [], true)
+ 7 APPPATH\Controllers\Layanan.php(22): view('admin/v_template_admin', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Layanan->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layanan))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 16:31:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+CRITICAL - 2024-01-23 16:31:29 --> ParseError: Unclosed '{' on line 88
+in APPPATH\Views\admin\layanan\v_index.php on line 123.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/layanan/v_index', [], true)
+ 3 APPPATH\Views\admin\v_template_admin.php(15): view('admin/layanan/v_index')
+ 4 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\hotelier\\app\\Views\\admin\\v_template_admin.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/v_template_admin', [], true)
+ 7 APPPATH\Controllers\Layanan.php(22): view('admin/v_template_admin', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Layanan->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layanan))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+WARNING - 2024-01-23 16:38:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:39:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:40:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-23 16:50:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Layanan::$ModelLayanan is deprecated in APPPATH\Controllers\Layanan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Layanan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\hotelier\\public\\index.php')
+INFO - 2024-01-23 16:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
